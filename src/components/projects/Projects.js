@@ -60,7 +60,7 @@ const Projects = () => {
         title="GOOGLE DOCS"
         des=" The Google Docs is a fully functional web application that replicates the features of Google Docs, including editing the title and the document, and the ability to download the document as well as all the formatting options are functional. "
         src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsKTed-jxS2hnsRF_HDKj2OfKyTYGss24EIWx-aJS60A&s"
-        githublink="https://github.com/DipshiV/Google-Docs"
+        githublink="https://github.com/DipshiV/Google-Docs/tree/master"
         deloymentlink= "https://google-docs-dusky.vercel.app/"
 
       />
