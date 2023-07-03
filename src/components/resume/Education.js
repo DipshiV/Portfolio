@@ -26,7 +26,7 @@ const Education = () => {
             title="B.Sc. in Maths "
             subTitle="J.P Verma Science Mahavidyalaya (Kanpur University) (2016 - 2019)"
             result="65%"
-            des="I did my graduation in B.sc. in Maths "
+            des="I did my graduation in B.sc. Maths "
           />
           <ResumeCard
             title="Twelth School Education"

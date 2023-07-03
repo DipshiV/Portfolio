@@ -9,18 +9,18 @@ export const featuresData = [
     id: 2,
     icon: <AiFillAppstore />,
     title: "App Development",
-    des: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque solutahic consequuntur eum repellendus ad",
+    des: "",
   }, 
   {
     id: 5,
     icon: <SiAntdesign />,
-    title: "UX Design",
-    des: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque solutahic consequuntur eum repellendus ad",
+    title: "UX Design / UI Design",
+    des: "",
   },
   {
     id: 6,
     icon: <FaGlobe />,
     title: "Hosting Websites",
-    des: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque solutahic consequuntur eum repellendus ad",
+    des: "",
   },
 ];

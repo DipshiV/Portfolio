@@ -21,12 +21,12 @@ const Achievement = () => {
             2019
             ."
             result="Success"
-            des="In 2019 This was my greatest achievements . I cleared MCA entrance exam (NIMCET). Here I scored 394 rank(AIR) and 152 (OBC category).Because of this rank I got admission in National Institute Of Technology Bhopal,Madhya Pradesh "
+            des="This is all India MCA entrance exam (NIMCET). I scored 294 rank(AIR) and 152 (OBC category).Because of this rank I got admission in National Institute Of Technology Bhopal,Madhya Pradesh "
           />
           <ResumeCard
             title="BHU MCA Entrance."
             subTitle="Secured AIR - 92 in BHU MCA 
-            Entrance Exam 201."
+            Entrance Exam 2019"
             result="Success"
             des="I hod gotten this college also for MCA but I did not get admission here because I had scored good in Nimcet also."
           />

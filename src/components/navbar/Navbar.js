@@ -2,7 +2,11 @@ import React, { useState } from 'react'
 import { Link } from "react-scroll";
 import { FiMenu } from "react-icons/fi";
 import { MdClose } from "react-icons/md";
-import { FaFacebookF, FaTwitter, FaLinkedinIn } from "react-icons/fa";
+
+
+import { SiMaildotru } from "react-icons/si";
+import {BsGithub, BsLinkedin} from 'react-icons/bs'
+
 import {Mylogo} from "../../assets/index"
 
 import { navLinksdata } from '../../constants';
@@ -73,15 +77,30 @@ const Navbar = () => {
                   Find me in
                 </h2>
                 <div className="flex gap-4">
-                  <span className="bannerIcon">
-                    <FaFacebookF />
-                  </span>
-                  <span className="bannerIcon">
-                    <FaTwitter />
-                  </span>
-                  <span className="bannerIcon">
-                    <FaLinkedinIn />
-                  </span>
+                <a className="bannerIcon"
+                href="mailto:vermadipshi70@gmail.com"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                {" "}
+                <SiMaildotru/>
+              </a >
+              <a className="bannerIcon"
+              href="https://github.com/DipshiV"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              {" "}
+            <BsGithub/>
+            </a>
+            <a className="bannerIcon"
+            href="https://www.linkedin.com/in/dipshi-verma/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            {" "}
+          <BsLinkedin/>
+          </a>
                 </div>
               </div>
               <span
