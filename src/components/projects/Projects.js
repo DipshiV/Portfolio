@@ -28,7 +28,7 @@ const Projects = () => {
           title="TRELLO CLONE"
           des="The Kanban Board is a visual tool that helps to manage work efficiently and effectively by visualizing the workflow and providing a clear picture of the status of each task"
           src="https://2.bp.blogspot.com/-PcmCGjpg_vc/W__q-xgZD5I/AAAAAAAABf8/lnEo6gsdj707Qk9ocMA3jdcbXTihjhdzgCLcBGAs/s1600/Kanban-PPT-Template-free-kanban-board-excel-template.png"
-          githublink="https://github.com/DipshiV/Blog-App"
+          githublink="https://github.com/DipshiV/Kanban-Board"
           deloymentlink= "https://trello-123-git-kanban-2-dipshiv.vercel.app/"
         />
         <ProjectsCard
@@ -36,7 +36,7 @@ const Projects = () => {
     des=" This project is a Twitter clone built using React. It incorporates various features such as adding feeds, liking and disliking posts, and a trending feed section. Firebase for data storing , and the UI components are developed using Material UI. "
     src="https://img.freepik.com/free-vector/sport-get-fit-landing-page-with-photo_52683-25054.jpg?w=996&t=st=1688352964~exp=1688353564~hmac=15555b32824fe3ee46366dc690ef68c9af4970ff12cd92adf2c01e25a836e927"
     githublink="https://github.com/DipshiV/Gym-Website"
-    deloymentlink= "https://gym-website-tan-chi.vercel.app/"
+    deloymentlink= "https://gym-website-git-master-dipshiv.vercel.app/"
 
   />
         <ProjectsCard
