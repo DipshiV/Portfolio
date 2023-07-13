@@ -16,6 +16,16 @@ const Projects = () => {
         />
       </div>
       <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-6 xl:gap-14">
+
+      <ProjectsCard
+      title="Movix Website"
+      des=" This project is fully functional and resposive movies and Tv shows information website by using react.js and redux toolkit. and fetching data of movies  using here TMDB API. "
+      src="https://shotdeck.com/assets/images/new_discover.jpg"
+      githublink="https://github.com/DipshiV/movix-website"
+      deloymentlink= "https://movix-website-dipshiv.vercel.app/"
+
+    />
+
       <ProjectsCard
       title="Blog-App"
       des=" This is a simple bloag app in react.js and firebase .I have used here firebase for login authentication from google and when we create Post it is saving in firebase store . and on the basis of login credential perticular user can delete thier post only . "
@@ -56,15 +66,7 @@ const Projects = () => {
 
         />
 
-        <ProjectsCard
-        title="GOOGLE DOCS"
-        des=" The Google Docs is a fully functional web application that replicates the features of Google Docs, including editing the title and the document, and the ability to download the document as well as all the formatting options are functional. "
-        src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsKTed-jxS2hnsRF_HDKj2OfKyTYGss24EIWx-aJS60A&s"
-        githublink="https://github.com/DipshiV/Google-Docs/tree/master"
-        deloymentlink= "https://google-docs-dusky.vercel.app/"
-
-      />
-       
+      
        
       </div>
     </section>
